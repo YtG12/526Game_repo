@@ -16,6 +16,6 @@ public class SpinPropellerX : MonoBehaviour
     void Update()
     {
         // Spins the plane’s propeller around the Z axis.
-        transform.Rotate(Vector3.forward * propellerSpeed * Time.deltaTime);
+        transform.Rotate(Vector3.forward, propellerSpeed * Time.deltaTime);
     }
 }
