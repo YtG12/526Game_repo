@@ -1095,7 +1095,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89181fd676411423d93b48bd0e447fee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateChange: {x: 0, y: 0.02, z: 0}
+  rotateChange: {x: 0, y: 10, z: 0}
 --- !u!1 &1137719533
 GameObject:
   m_ObjectHideFlags: 0
@@ -1215,7 +1215,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 364b49f0c3053475bae3010444624cfb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: 0, y: -0.001, z: 0}
+  positionChange: {x: 0, y: -1, z: 0}
 --- !u!1 &1277564671
 GameObject:
   m_ObjectHideFlags: 0
@@ -1681,7 +1681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6de89754d1600488d94369b99d382d71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scaleChange: {x: 0.00015, y: 0.00015, z: 0.00015}
+  scaleChange: {x: 0.15, y: 0.15, z: 0.15}
 --- !u!1 &1668320428
 GameObject:
   m_ObjectHideFlags: 0
